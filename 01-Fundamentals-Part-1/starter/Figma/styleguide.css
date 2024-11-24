@@ -1,0 +1,26 @@
+:root {
+  --body-text-font-family: "Roboto", Helvetica;
+  --body-text-font-weight: 400;
+  --body-text-font-size: 20px;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: 27.5px;
+  --body-text-font-style: normal;
+  --h1-main-heading-font-family: "Outfit", Helvetica;
+  --h1-main-heading-font-weight: 700;
+  --h1-main-heading-font-size: 67px;
+  --h1-main-heading-letter-spacing: 0px;
+  --h1-main-heading-line-height: 100%;
+  --h1-main-heading-font-style: normal;
+  --SUB-HEADER-font-family: "Outfit", Helvetica;
+  --SUB-HEADER-font-weight: 600;
+  --SUB-HEADER-font-size: 20px;
+  --SUB-HEADER-letter-spacing: 2px;
+  --SUB-HEADER-line-height: 27.5px;
+  --SUB-HEADER-font-style: normal;
+  --h2-font-family: "Outfit", Helvetica;
+  --h2-font-weight: 700;
+  --h2-font-size: 47px;
+  --h2-letter-spacing: 0px;
+  --h2-line-height: 100%;
+  --h2-font-style: normal;
+}
